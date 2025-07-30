@@ -13,8 +13,10 @@ Any changes you make to your deployed app will be automatically pushed to this r
 ## Deployment
 
 Your project is live at:
-
+//the following link is not actual
 **[https://vercel.com/tsvetankivanov72-2197s-projects/v0-client-management-app](https://vercel.com/tsvetankivanov72-2197s-projects/v0-client-management-app)**
+
+Actual live link: https://crm-ten-indol.vercel.app/ 
 
 ## Build your app
 
