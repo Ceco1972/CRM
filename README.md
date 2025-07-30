@@ -1,4 +1,4 @@
-# Client Management App
+# Client Management App with a Firebase database
 Here is a link to the app: https://crm-ten-indol.vercel.app/ 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
